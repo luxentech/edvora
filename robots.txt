@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /?view=admin
+Sitemap: https://elevate-opportunities.org/sitemap.xml
